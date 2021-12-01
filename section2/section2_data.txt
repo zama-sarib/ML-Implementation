@@ -1,0 +1,51 @@
+{"_i": 0, "frame": "frame_000.png", "video": "video000", "value": 39, "labels": ["bird"]}
+{"_i": 1, "frame": "frame_001.png", "video": "video000", "value": 33, "labels": ["frog", "dog"]}
+{"_i": 2, "frame": "frame_002.png", "video": "video000", "value": 25, "labels": ["panda", "panda"]}
+{"_i": 3, "frame": "frame_003.png", "video": "video000", "value": 28, "labels": ["dog", "dog"]}
+{"_i": 4, "frame": "frame_004.png", "video": "video000", "value": 16, "labels": ["cat"]}
+{"_i": 5, "frame": "frame_005.png", "video": "video000", "value": 32, "labels": ["bird", "frog", "bird"]}
+{"_i": 6, "frame": "frame_006.png", "video": "video000", "value": 35, "labels": ["bird", "dog"]}
+{"_i": 7, "frame": "frame_000.png", "video": "video001", "value": 25, "labels": ["dog", "bird"]}
+{"_i": 8, "frame": "frame_001.png", "video": "video001", "value": 16, "labels": ["dog", "panda", "bird"]}
+{"_i": 9, "frame": "frame_002.png", "video": "video001", "value": 23, "labels": ["panda"]}
+{"_i": 10, "frame": "frame_003.png", "video": "video001", "value": 3, "labels": ["bird", "cat", "bird"]}
+{"_i": 11, "frame": "frame_004.png", "video": "video001", "value": 8, "labels": ["frog", "cat", "cat"]}
+{"_i": 12, "frame": "frame_005.png", "video": "video001", "value": 2, "labels": ["frog", "cat", "dog"]}
+{"_i": 13, "frame": "frame_006.png", "video": "video001", "value": 0, "labels": ["dog", "panda"]}
+{"_i": 14, "frame": "frame_007.png", "video": "video001", "value": 26, "labels": ["dog", "bird"]}
+{"_i": 15, "frame": "frame_008.png", "video": "video001", "value": 38, "labels": ["frog"]}
+{"_i": 16, "frame": "frame_009.png", "video": "video001", "value": 34, "labels": ["frog"]}
+{"_i": 17, "frame": "frame_000.png", "video": "video002", "value": 40, "labels": ["dog", "frog", "panda"]}
+{"_i": 18, "frame": "frame_001.png", "video": "video002", "value": 35, "labels": ["bird", "panda", "panda"]}
+{"_i": 19, "frame": "frame_002.png", "video": "video002", "value": 23, "labels": ["frog", "frog", "frog"]}
+{"_i": 20, "frame": "frame_003.png", "video": "video002", "value": 37, "labels": ["dog", "dog", "bird"]}
+{"_i": 21, "frame": "frame_004.png", "video": "video002", "value": 14, "labels": ["cat", "dog", "bird"]}
+{"_i": 22, "frame": "frame_000.png", "video": "video003", "value": 28, "labels": ["bird"]}
+{"_i": 23, "frame": "frame_001.png", "video": "video003", "value": 26, "labels": ["bird", "dog", "dog"]}
+{"_i": 24, "frame": "frame_002.png", "video": "video003", "value": 2, "labels": ["cat", "dog", "dog"]}
+{"_i": 25, "frame": "frame_003.png", "video": "video003", "value": 24, "labels": ["panda"]}
+{"_i": 26, "frame": "frame_004.png", "video": "video003", "value": 24, "labels": ["cat", "cat", "panda"]}
+{"_i": 27, "frame": "frame_005.png", "video": "video003", "value": 5, "labels": ["cat", "cat", "dog"]}
+{"_i": 28, "frame": "frame_006.png", "video": "video003", "value": 33, "labels": ["frog"]}
+{"_i": 29, "frame": "frame_007.png", "video": "video003", "value": 26, "labels": ["frog", "bird"]}
+{"_i": 30, "frame": "frame_008.png", "video": "video003", "value": 41, "labels": ["panda", "panda", "bird"]}
+{"_i": 31, "frame": "frame_009.png", "video": "video003", "value": 35, "labels": ["dog", "dog", "frog"]}
+{"_i": 32, "frame": "frame_010.png", "video": "video003", "value": 39, "labels": ["frog", "bird"]}
+{"_i": 33, "frame": "frame_011.png", "video": "video003", "value": 6, "labels": ["bird", "cat"]}
+{"_i": 34, "frame": "frame_012.png", "video": "video003", "value": 23, "labels": ["panda"]}
+{"_i": 35, "frame": "frame_013.png", "video": "video003", "value": 5, "labels": ["panda"]}
+{"_i": 36, "frame": "frame_014.png", "video": "video003", "value": 4, "labels": ["bird"]}
+{"_i": 37, "frame": "frame_015.png", "video": "video003", "value": 40, "labels": ["dog", "panda", "cat"]}
+{"_i": 38, "frame": "frame_016.png", "video": "video003", "value": 20, "labels": ["frog"]}
+{"_i": 39, "frame": "frame_017.png", "video": "video003", "value": 21, "labels": ["dog", "panda"]}
+{"_i": 40, "frame": "frame_000.png", "video": "video004", "value": 17, "labels": ["frog"]}
+{"_i": 41, "frame": "frame_001.png", "video": "video004", "value": 26, "labels": ["frog", "dog", "cat"]}
+{"_i": 42, "frame": "frame_002.png", "video": "video004", "value": 32, "labels": ["panda", "bird", "cat"]}
+{"_i": 43, "frame": "frame_003.png", "video": "video004", "value": 31, "labels": ["panda", "cat", "bird"]}
+{"_i": 44, "frame": "frame_004.png", "video": "video004", "value": 21, "labels": ["dog"]}
+{"_i": 45, "frame": "frame_005.png", "video": "video004", "value": 5, "labels": ["panda"]}
+{"_i": 46, "frame": "frame_006.png", "video": "video004", "value": 29, "labels": ["bird", "bird"]}
+{"_i": 47, "frame": "frame_007.png", "video": "video004", "value": 41, "labels": ["bird"]}
+{"_i": 48, "frame": "frame_008.png", "video": "video004", "value": 33, "labels": ["panda"]}
+{"_i": 49, "frame": "frame_009.png", "video": "video004", "value": 14, "labels": ["frog"]}
+{"_i": 50, "frame": "frame_010.png", "video": "video004", "value": 2, "labels": ["dog"]}
